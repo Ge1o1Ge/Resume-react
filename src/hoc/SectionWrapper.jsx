@@ -1,11 +1,11 @@
-import React from "react";
+// import React from "react";
 import { motion } from "framer-motion";
-import { Tilt } from "react-tilt";
+// import { Tilt } from "react-tilt";
 
 import { styles } from "../styles";
 import { staggerContainer } from "../utils/motion";
 
-const SectionWrapper = (Component, idName) => {
+const SectionWrapper = (Component, idName = "") => {
   return function HOC() {
     return (
       <motion.section
