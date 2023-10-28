@@ -124,7 +124,7 @@ const experiences = [
   },
   {
     title: "Freelance Web Developer",
-    company_name: "",
+    company_name: "Garin Studio",
     icon: freelance,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
@@ -132,7 +132,6 @@ const experiences = [
       "Freelance web development, including development on React.js and related technologies.",
       "Collaborated with various companies and clients, including receiving ongoing orders.",
       "Developed responsive designs and ensured cross-browser compatibility.",
-      "Participated in code reviews and provided constructive feedback to other developers.",
     ],
   },
 ];
