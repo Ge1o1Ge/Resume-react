@@ -197,7 +197,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://ge1o1ge.github.io/Online-zoo/",
   },
   {
     name: "Minesweeper the game",
@@ -217,7 +217,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://rolling-scopes-school.github.io/ge1o1ge-JSFE2023Q1/minesweeper/dist/",
   },
 ];
 
